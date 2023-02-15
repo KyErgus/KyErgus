@@ -69,16 +69,7 @@ Hey Welcome to CATONE PoS Validator Screen
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>ARCHWAY</strong></span><br><br />
-            <a href="https://archway.io" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Archway.png"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>KIRA</strong></span><br><br />
-            <a href="https://ipfs.kira.network/ipfs/bafybeiapi3vmiijbgaq3wakuzkgtna2lflcejj7lpoi6qgrx47bseo64yq" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kira.png"> </a>
-            </td>
+
             <td width="130px" align="center">
             <span><strong>KYVE</strong></span><br><br />
             <a href="https://www.kyve.network" target="_blank" rel="noopener noreferrer">
@@ -96,10 +87,6 @@ Hey Welcome to CATONE PoS Validator Screen
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>NEAR</strong></span><br><br />
-            <a href="https://near.org" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Near.png"> </a>
-            </td>
             <td width="130px" align="center">
             <span><strong>OBOL</strong></span><br><br />
             <a href="https://obol.tech" target="_blank" rel="noopener noreferrer">
