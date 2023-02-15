@@ -1,4 +1,4 @@
-# profil
+# ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
@@ -142,7 +142,7 @@ Hey Welcome to CATONE PoS Validator Screen
   <div style="display: flex; align-items: flex-start;">
 <br />
 <br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=vitavaleriya&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=KyErgus&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
 <br />
 <br />
   </div>
