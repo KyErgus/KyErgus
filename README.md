@@ -90,7 +90,17 @@ Node installation services
   <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
   </div>
 </div>
-
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>STARKNET</strong></span><br><br />
+            <a href="https://starkware.co/starknet/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1612525730851610657/UxPHcAKy_400x400.jpg"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
