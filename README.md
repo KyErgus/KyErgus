@@ -14,7 +14,7 @@
 <h1>CATONE</h1>
 <br />
 <br />
-Hey Welcome to CATONE PoS Validator Screen
+Node installation services
   </div>
 </div>
 
