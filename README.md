@@ -99,6 +99,11 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
+            <span><strong>STAFI PROTOCOL</strong></span><br><br />
+            <a href="https://www.stafi.io/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1153498898272411648/CN0V4QeI_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
             <span><strong>STARKNET</strong></span><br><br />
             <a href="https://starkware.co/starknet/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1612525730851610657/UxPHcAKy_400x400.jpg"> </a>
