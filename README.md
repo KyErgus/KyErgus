@@ -72,6 +72,11 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
+            <span><strong>MINIMA</strong></span><br><br />
+            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
+            </td>
+            <td width="130px" align="center">
             <span><strong>LAVA</strong></span><br><br />
             <a href="https://lava.explorers.guru/validator/lava@valoper1anhrz0zxwm030y5afjulvjnc97r8k0yxq4fqz6" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1572932736934940672/YAeBtumE_400x400.jpg"> </a>
