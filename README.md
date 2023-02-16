@@ -46,6 +46,11 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
+            <span><strong>EXORDE LABS</strong></span><br><br />
+            <a href="https://exorde.network/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1486712389777068043/tXqjiR3t_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
             <span><strong>IRON FISH</strong></span><br><br />
             <a href="https://ironfish.network/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_400x400.jpg"> </a>
