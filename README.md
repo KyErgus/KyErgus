@@ -79,7 +79,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>LAVA</strong></span><br><br />
             <a href="https://lava.explorers.guru/validator/lava@valoper1anhrz0zxwm030y5afjulvjnc97r8k0yxq4fqz6" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1572932736934940672/YAeBtumE_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>MARS</strong></span><br><br />
@@ -116,7 +116,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>STARKNET</strong></span><br><br />
             <a href="https://starkware.co/starknet/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1612525730851610657/UxPHcAKy_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1628849916331130880/VR3j9pyP_400x400.jpg"> </a>
             </td>
           </tr>
     </tbody>
