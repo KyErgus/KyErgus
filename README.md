@@ -62,21 +62,6 @@ Node installation services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>MINIMA</strong></span><br><br />
-            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>LAVA</strong></span><br><br />
-            <a href="https://lava.explorers.guru/validator/lava@valoper1anhrz0zxwm030y5afjulvjnc97r8k0yxq4fqz6" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>MARS</strong></span><br><br />
-            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1u20rw2zlw3whwahxmxypslm505qmf2axjduvky" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
-            </td>
-            <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1569871676233613313/lP_WJgdC_400x400.jpg"> </a>
@@ -93,6 +78,21 @@ Node installation services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>MINIMA</strong></span><br><br />
+            <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>LAVA</strong></span><br><br />
+            <a href="https://lava.explorers.guru/validator/lava@valoper1anhrz0zxwm030y5afjulvjnc97r8k0yxq4fqz6" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>MARS</strong></span><br><br />
+            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1u20rw2zlw3whwahxmxypslm505qmf2axjduvky" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
+            </td>
             <td width="130px" align="center">
             <span><strong>EXORDE LABS</strong></span><br><br />
             <a href="https://exorde.network/" target="_blank" rel="noopener noreferrer">
@@ -111,12 +111,12 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>STAFI PROTOCOL</strong></span><br><br />
             <a href="https://www.stafi.io/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1153498898272411648/CN0V4QeI_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1641769104821596165/a1DFjWRp_400x400.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>STARKNET</strong></span><br><br />
             <a href="https://starkware.co/starknet/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1628849916331130880/VR3j9pyP_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1656626805816565763/WyFDMG6u_400x400.png"> </a>
             </td>
           </tr>
     </tbody>
