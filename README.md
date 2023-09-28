@@ -61,6 +61,11 @@ Node installation services
             <a href="https://telemetry.subspace.network/#list/0x92e91e657747c41eeabed5129ff51689d2e935b9f6abfbd5dfcb2e1d0d035095" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
             </td>
+          <td width="130px" align="center">
+            <span><strong>SANTIMENT</strong></span><br><br />
+            <a href="https://sanr.network/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
