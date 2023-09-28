@@ -68,7 +68,7 @@ Node installation services
             </td>
             <td width="130px" align="center">
             <span><strong>SUBSPACE</strong></span><br><br />
-            <a href="https://subspace.network" target="_blank" rel="noopener noreferrer">
+            <a href="https://telemetry.subspace.network/#list/0x92e91e657747c41eeabed5129ff51689d2e935b9f6abfbd5dfcb2e1d0d035095" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
             </td>
         </tr>
