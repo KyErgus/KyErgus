@@ -194,7 +194,7 @@ Node installation services
 
    <li> Email: kyergus@gmail.com</li>
    <li> Telegram: https://t.me/erguskaya</li>
-   <li> Discord: KyErgus#0984</li>
+   <li> Discord: KyErgus</li>
    <li> Twitter: https://twitter.com/ergus_kaya</li>
 
 <div align="center">
