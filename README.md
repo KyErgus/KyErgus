@@ -66,6 +66,11 @@ Node installation services
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1569871676233613313/lP_WJgdC_400x400.jpg"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>SUBSPACE</strong></span><br><br />
+            <a href="https://subspace.network" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
