@@ -106,7 +106,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>TAIKO</strong></span><br><br />
             <a href="https://l2explorer.a1.taiko.xyz/address/0xd226E41946EaCcaf40F68F6B9E9920dA40C04EF4/validations#address-tabs" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>STAFI PROTOCOL</strong></span><br><br />
@@ -178,7 +178,7 @@ Node installation services
             <td width="130px" align="center">
             <span><strong>SHARDEUM</strong></span><br><br />
             <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1660782439340576768/9rIZjmMt_400x400.jpg"> </a>
             </td>
         </tr>
     </tbody>
