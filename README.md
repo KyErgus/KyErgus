@@ -45,16 +45,6 @@ Node installation services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://dymension.explorers.guru/validator/dymvaloper19a4pzgkd69ew4p96xydmr5rhxt0qrhdzqt3nke" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1594732521962541058/NGdT4O2k_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>SHARDEUM</strong></span><br><br />
-            <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
-            </td>
           </tr>
     </tbody>
 </table>
@@ -174,6 +164,16 @@ Node installation services
             <span><strong>SUBSPACE</strong></span><br><br />
             <a href="https://subspace.network" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
+            </td>
+          <td width="130px" align="center">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://dymension.explorers.guru/validator/dymvaloper19a4pzgkd69ew4p96xydmr5rhxt0qrhdzqt3nke" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>SHARDEUM</strong></span><br><br />
+            <a href="https://shardeum.org/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg"> </a>
             </td>
         </tr>
     </tbody>
