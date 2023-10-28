@@ -29,7 +29,7 @@ Node installation services
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>SANTIMENT</strong></span><br><br />
-            <a href="https://sanr.network/" target="_blank" rel="noopener noreferrer">
+            <a href="https://nodes.sanr.network/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
