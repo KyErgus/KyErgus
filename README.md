@@ -34,7 +34,7 @@ Node installation services
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
-            <a href="https://explorers.acloud.pp.ua/paloma-mainnet/staking/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
+            <a href="https://paloma.explorers.guru/validator/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1569871676233613313/lP_WJgdC_400x400.jpg"> </a>
             </td>
         </tr>
