@@ -56,6 +56,11 @@ Node installation services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+                        <td width="130px" align="center">
+            <span><strong>AVAIL</strong></span><br><br />
+            <a href="https://telemetry.avail.tools/#/0xd12003ac837853b062aaccca5ce87ac4838c48447e41db4a3dcfb5bf312350c6" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://www.availproject.org/_next/static/media/grow.1113097f.png"> </a>
+            </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
