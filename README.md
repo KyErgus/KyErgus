@@ -56,7 +56,12 @@ Node installation services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
-                        <td width="130px" align="center">
+            <td width="130px" align="center">
+            <span><strong>ELIXIR</strong></span><br><br />
+            <a href="https://dashboard.elixir.finance/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://dashboard.elixir.finance/_next/image?url=%2Felixir.png&w=1920&q=75"> </a>
+            </td>
+            <td width="130px" align="center">
             <span><strong>AVAIL</strong></span><br><br />
             <a href="https://telemetry.avail.tools/#/0xd12003ac837853b062aaccca5ce87ac4838c48447e41db4a3dcfb5bf312350c6" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://www.availproject.org/_next/static/media/grow.1113097f.png"> </a>
