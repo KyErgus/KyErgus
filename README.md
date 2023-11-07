@@ -14,7 +14,7 @@
 <h1>WELCOME TO MY PROFILE</h1>
 <br />
 <br />
-Node installation services
+Node Installation Services
   </div>
 </div>
 
