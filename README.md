@@ -56,6 +56,11 @@ Node Installation Services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>ENGRAM NETWORK</strong></span><br><br />
+            <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1689444389385584640/sbewhUtb_400x400.jpg"> </a>
+            </td>
             <td width="130px" align="center">
             <span><strong>ELIXIR</strong></span><br><br />
             <a href="https://dashboard.elixir.finance/" target="_blank" rel="noopener noreferrer">
