@@ -59,7 +59,7 @@ Node Installation Services
             <td width="130px" align="center">
             <span><strong>ENGRAM NETWORK</strong></span><br><br />
             <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1689444389385584640/sbewhUtb_400x400.jpg"> </a>
+            <img height="40px" src="https://scan.engram.tech/assets/network_logo_dark.svg"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>ELIXIR</strong></span><br><br />
