@@ -56,6 +56,11 @@ Node Installation Services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://portal.dymension.xyz/rollapp/catone_7696242-1">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
+            </td>
             <td width="130px" align="center">
             <span><strong>ENGRAM NETWORK</strong></span><br><br />
             <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
