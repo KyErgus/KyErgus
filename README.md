@@ -57,16 +57,6 @@ Node Installation Services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://portal.dymension.xyz/rollapp/catone_7696242-1">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>ENGRAM NETWORK</strong></span><br><br />
-            <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
-            <img height="40px" src="https://scan.engram.tech/assets/network_logo_dark.svg"> </a>
-            </td>
-            <td width="130px" align="center">
             <span><strong>ELIXIR</strong></span><br><br />
             <a href="https://dashboard.elixir.finance/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://dashboard.elixir.finance/_next/image?url=%2Felixir.png&w=1920&q=75"> </a>
@@ -92,6 +82,27 @@ Node Installation Services
             <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
             </td>
         </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>NAMADA</strong></span><br><br />
+            <a href="namada.net" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1679825110373486593/oVAMywcF_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>DYMENSION</strong></span><br><br />
+            <a href="https://portal.dymension.xyz/rollapp/catone_7696242-1">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>ENGRAM NETWORK</strong></span><br><br />
+            <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
+            <img height="40px" src="https://scan.engram.tech/assets/network_logo_dark.svg"> </a>
+            </td>
+          </tr>
     </tbody>
 </table>
 
