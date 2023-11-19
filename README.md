@@ -33,7 +33,6 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>M A I N N E T S</i></h2>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 
@@ -52,13 +51,13 @@ Node Installation Services
             </td>
         </tr>
     </tbody>
+    </div>
 </table>
 
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 <table width="320px" align="center">
@@ -123,7 +122,6 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 <table width="320px" align="center">
