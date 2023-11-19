@@ -1,4 +1,5 @@
 # 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
@@ -11,7 +12,9 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <br />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1>WELCOME TO MY PROFILE</h1>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br />
 <br />
 Node Installation Services
@@ -21,6 +24,7 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>M A I N N E T S</i></h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 
@@ -45,6 +49,7 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 <table width="320px" align="center">
@@ -109,6 +114,7 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 <table width="320px" align="center">
@@ -223,6 +229,7 @@ Node Installation Services
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h2><i>C O N T A C T S</i></h2>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br />
   <br />
   </div>
@@ -235,7 +242,9 @@ Node Installation Services
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 </div>
 
