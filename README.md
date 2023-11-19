@@ -1,6 +1,4 @@
 # 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
   <div style="display: flex; align-items: flex-start;">
   <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
     <img align="top" src="https://komarev.com/ghpvc/?username=catone&color=blueviolet"/>
