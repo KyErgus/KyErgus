@@ -1,7 +1,15 @@
 # 
+<p align="center">
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=MAINNET%20TESTNET%20;NODE%20RUNNING%20;VALIDATOR%20SERVICE%20EXPERIENCES;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
-    <img align="top" src="https://komarev.com/ghpvc/?username=catone&color=blueviolet"/>
+  <h2><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h2>
+  <img align="top" src="https://komarev.com/ghpvc/?username=catone&color=blueviolet"/>
 <br />
 <br />
   </div>
