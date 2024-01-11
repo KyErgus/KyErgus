@@ -107,7 +107,7 @@ Node Installation Services
             </td>
             <td width="130px" align="center">
             <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://portal.dymension.xyz/rollapp/catone_7696242-1">
+            <a href="https://portal.dymension.xyz/rollapp/dmax_3210602-1">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
