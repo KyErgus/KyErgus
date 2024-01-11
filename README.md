@@ -111,9 +111,9 @@ Node Installation Services
             <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>ENGRAM NETWORK</strong></span><br><br />
-            <a href="https://scan.engram.tech/tx/0x664288b5af9f75b5b30617dc6eb9fed65b8e93a6de7305f832f6d08e82f354a9">
-            <img height="40px" src="https://scan.engram.tech/assets/network_logo_dark.svg"> </a>
+            <span><strong>QUAI NETWORK</strong></span><br><br />
+            <a href="https://stats.quai.network/app/dashboards#/view/2fb8ecd0-6d25-11ee-a85f-1942a24697c3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-1h,to:now))">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1734342197816774656/cM2AlLNw_400x400.jpg"> </a>
             </td>
           </tr>
     </tbody>
