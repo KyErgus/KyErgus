@@ -101,6 +101,11 @@ Node Installation Services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
+            <span><strong>Redbelly Network </strong></span><br><br />
+            <a href="https://explorer.devnet.redbelly.network/address/0x7Bf1Ba7355aAFDA059CE537A63693a3B310d5C49?tab=transactions">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
+            </td>
+            <td width="130px" align="center">
             <span><strong>NAMADA</strong></span><br><br />
             <a href="namada.net" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1679825110373486593/oVAMywcF_400x400.jpg"> </a>
