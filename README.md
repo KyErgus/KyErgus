@@ -40,11 +40,6 @@ Node Installation Services
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>SANTIMENT</strong></span><br><br />
-            <a href="https://nodes.sanr.network/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
             <a href="https://paloma.explorers.guru/validator/palomavaloper10y227j9d09pckexy32v2gckerj9a0kcewgf7xy" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1569871676233613313/lP_WJgdC_400x400.jpg"> </a>
@@ -63,12 +58,41 @@ Node Installation Services
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+          <td width="130px" align="center">
+            <span><strong>REPUBLICAI </strong></span><br><br />
+            <a href="https://explorer.republicai.io/tx/09D59AEC52F0D24C9D9E5173206D4D830E63BE50D29FCEAA685AB00357294F60">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1973508413666574337/lfLtj2x-_400x400.jpg"> </a>
+            </td>
           </tr>
     </tbody>
 </table>
 <table width="320px" align="center">
     <tbody>
         <tr valign="top">
+        </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            
+ </tr>
+    </tbody>
+</table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
+  </div>
+</div>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>SANTIMENT</strong></span><br><br />
+            <a href="https://nodes.sanr.network/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
+            </td>
             <td width="130px" align="center">
             <span><strong>ELIXIR</strong></span><br><br />
             <a href="https://dashboard.elixir.finance/" target="_blank" rel="noopener noreferrer">
@@ -94,44 +118,6 @@ Node Installation Services
             <a href="https://sanr.network/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://pbs.twimg.com/profile_images/1036525323569967104/5JLmbTRo_400x400.jpg"> </a>
             </td>
-        </tr>
-    </tbody>
-</table>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Redbelly Network </strong></span><br><br />
-            <a href="https://explorer.devnet.redbelly.network/address/0x7Bf1Ba7355aAFDA059CE537A63693a3B310d5C49?tab=transactions">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1744579928568606720/KynLIvhr_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>NAMADA</strong></span><br><br />
-            <a href="namada.net" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1679825110373486593/oVAMywcF_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>DYMENSION</strong></span><br><br />
-            <a href="https://portal.dymension.xyz/rollapp/dmax_3210602-1">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"> </a>
-            </td>
-            <td width="130px" align="center">
-            <span><strong>QUAI NETWORK</strong></span><br><br />
-            <a href="https://stats.quai.network/app/dashboards#/view/2fb8ecd0-6d25-11ee-a85f-1942a24697c3?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-1h,to:now))">
-            <img height="40px" src="https://pbs.twimg.com/profile_images/1734342197816774656/cM2AlLNw_400x400.jpg"> </a>
-            </td>
-          </tr>
-    </tbody>
-</table>
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h2><i>C O M P L E T E D &nbsp; P R O J E C T S</i></h2>
-  </div>
-</div>
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>MINIMA</strong></span><br><br />
             <a href="https://www.minima.global/" target="_blank" rel="noopener noreferrer">
